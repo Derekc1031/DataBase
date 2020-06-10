@@ -9,6 +9,8 @@
   * [小心駛得萬年船--SQL指令保險栓](https://blog.darkthread.net/blog/safty-lock/)
   * [解決 SQL Server 資料庫無法啟用 Service Broker 的問題](https://blog.miniasp.com/post/2009/08/28/Solve-SQL-Server-unable-to-enable-service-broker-problem)
   * [SQL Server 如果本機管理者與 sa 帳戶都無法登入怎麼辦？](https://blog.miniasp.com/post/2011/03/08/SQL-Server-When-System-Administrators-and-sa-Are-Locked-Out)
+  * [SQL SERVER 找出LOCK方法懶人包](http://terence-mak.blogspot.com/2013/10/sql-server-lock.html?m=1)
+  * [取得 SQL Server 資料庫正在執行的 T-SQL 指令與詳細資訊](https://blog.miniasp.com/post/2010/10/13/How-to-get-current-executing-statements-in-SQL-Server)
   
   ### Windows 驗證:
   
