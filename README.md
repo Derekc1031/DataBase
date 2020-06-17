@@ -1,5 +1,5 @@
 # DB Maintain & TroubleShooting:
-  * [SQL Server Tips, Articles and Training](https://www.mssqltips.com/sql-server-categories/) **Important!!**
+  * [SQL Server Tips, Articles and Training](https://www.mssqltips.com/sql-server-categories/)-**Important!!**
   * [SQL指令來讀取SQL Error Log](https://ithelp.ithome.com.tw/articles/10206679)
   * [檢查資料庫中每張資料表的使用狀況](https://ithelp.ithome.com.tw/articles/10206106)
   * [log檔和tempdb檔案大小一直增加時，該如何縮小?](https://ithelp.ithome.com.tw/articles/10205398)
