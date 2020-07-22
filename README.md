@@ -19,7 +19,7 @@
   * [SQL Server Management Studio 表格設計技巧](https://blog.miniasp.com/post/2008/01/26/SQL-Server-Management-Studio-Table-Design-Tips)
   * [使用 SQL 語法 LIKE 敘述句時的注意事項](https://blog.miniasp.com/post/2007/11/15/Comments-on-using-SQL-LIKE-statement)
 
-# [Windows 整合式驗證](https://github.com/Derekc1031/Back-End-Developing/edit/master/doc/IntegrateWindowsAuth.md)
+# [Windows 整合式驗證](https://github.com/Derekc1031/Back-End-Developing/blob/master/doc/IntegrateWindowsAuth.md)
 
 # SQL 驗證:    
   * [講解 SQL 連線字串中關於 Persist Security Info 參數的用途](https://blog.miniasp.com/post/2009/07/17/SQL-Connection-String-Persist-Security-Info-Explained)
