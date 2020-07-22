@@ -1,4 +1,4 @@
-# DB Maintain & TroubleShooting:
+# Maintain & TroubleShooting:
   * [SQL Server Tips, Articles and Training](https://www.mssqltips.com/sql-server-categories/)-**Important!!**
   * [SQL指令來讀取SQL Error Log](https://ithelp.ithome.com.tw/articles/10206679)
   * [檢查資料庫中每張資料表的使用狀況](https://ithelp.ithome.com.tw/articles/10206106)
@@ -17,13 +17,14 @@
   * [善用 SQL Server Management Studio 選項設定DB作業環境](https://blog.miniasp.com/post/2009/08/05/SQL-Server-Management-Studio-SSMS-Options-configuration)
   * [在 SQL Server 2005 中取得所有欄位定義的方法(含備註欄位)](https://blog.miniasp.com/post/2007/11/05/How-to-get-detailed-Data-Dictionary-in-SQL-Server-2005)
   * [SQL Server Management Studio 表格設計技巧](https://blog.miniasp.com/post/2008/01/26/SQL-Server-Management-Studio-Table-Design-Tips)
-  ### Windows/SQL 驗證:
-  * [部署內部網站並使用 Windows 驗證登入的標準作業流程](https://blog.miniasp.com/post/2014/01/12/Deployment-Intranet-Sites-using-Windows-Authentication-SOP)
-  * [無法使用Windows帳號登入防火牆內的SQL Serve](https://blog.darkthread.net/blog/ssms-sspi-firewall-issue/)
-  * [講解 SQL 連線字串中關於 Persist Security Info 參數的用途](https://blog.miniasp.com/post/2009/07/17/SQL-Connection-String-Persist-Security-Info-Explained)
   * [使用 SQL 語法 LIKE 敘述句時的注意事項](https://blog.miniasp.com/post/2007/11/15/Comments-on-using-SQL-LIKE-statement)
+
+# [Windows 整合式驗證](https://github.com/Derekc1031/Back-End-Developing/edit/master/doc/IntegrateWindowsAuth.md)
+
+# SQL 驗證:    
+  * [講解 SQL 連線字串中關於 Persist Security Info 參數的用途](https://blog.miniasp.com/post/2009/07/17/SQL-Connection-String-Persist-Security-Info-Explained)
   
-  ### 備份&還原:
+# 備份&還原:
   * [SQL Server 完整備份、差異備份、交易記錄備份](https://blog.miniasp.com/post/2010/04/21/SQL-Server-Full-Differential-Transaction-Backup)
   * [SQL Server 快速產生還原資料庫 T-SQL 指令碼的技巧](https://blog.miniasp.com/post/2011/07/20/Generate-RESTORE-T-SQL-Script-by-SQL-Server-Management-Studio-Quickly)
   * [SQLDumper ( 匯出 SQL Server 資料的好物 )](https://blog.miniasp.com/post/2009/10/26/Use-tools-SQL-Dumper)
